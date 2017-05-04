@@ -1,0 +1,94 @@
+{
+	"shoes":[
+		{
+			"id":"1",
+			"name":"Waterproof black boots",
+			"type":"boots",
+			"color":"black",
+			"price":"100",
+			"currency":"USD",
+			"image":"http://cdn2.next.co.uk/common/Items/Default/Default/Publications/G50/shotview-315x472/2258/966-455s.jpg"
+		},
+		{
+			"id":"2",
+			"name":"Black boots with heel",
+			"type":"boots",
+			"color":"black",
+			"price":"60",
+			"currency":"USD",
+			"image":"https://s-media-cache-ak0.pinimg.com/736x/3f/04/ca/3f04ca52f1d4db58f10ad4902c7c7bc2.jpg"
+		},
+		{
+			"id":"3",
+			"name":"Black sandals",
+			"type":"sandals",
+			"color":"black",
+			"price":"70",
+			"currency":"USD",
+			"image":"http://target.scene7.com/is/image/Target/51672424?wid=360&hei=360&qlt=80&fmt=pjpeg"
+		},
+		{
+			"id":"4",
+			"name":"Brown sandals",
+			"type":"sandals",
+			"color":"brown",
+			"price":"55",
+			"currency":"USD",
+			"image":"https://s-media-cache-ak0.pinimg.com/564x/c9/0a/78/c90a782aca5c5f6781e23a24bae21ac6.jpg"
+		},
+		{
+			"id":"5",
+			"name":"Blue sneakers",
+			"type":"sneakers",
+			"color":"blue",
+			"price":"28",
+			"currency":"USD",
+			"image":"http://ecx.images-amazon.com/images/I/615ZKx1eD4L._UL1500_.jpg"
+		},
+		{
+			"id":"6",
+			"name":"Red sneakers",
+			"type":"sneakers",
+			"color":"red",
+			"price":"32",
+			"currency":"USD",
+			"image":"https://s-media-cache-ak0.pinimg.com/736x/8e/06/98/8e069858da88c640984ef3fd1f6ad821.jpg"
+		},
+		{
+			"id":"7",
+			"name":"Black high heels",
+			"type":"high_heels",
+			"color":"black",
+			"price":"150",
+			"currency":"USD",
+			"image":"http://gloimg.rosewholesale.com/ROSE/pdm-product-pic/Clothing/2016/08/05/goods-img/1470417788820695375.jpg"
+		},
+		{
+			"id":"8",
+			"name":"Pink high heels",
+			"type":"high_heels",
+			"color":"pink",
+			"price":"200",
+			"currency":"USD",
+			"image":"http://lillypt.indefree.netdna-cdn.com/wp-content/uploads/2015/09/t20wxc-i.jpg"
+		},
+		{
+			"id":"9",
+			"name":"White high heels",
+			"type":"high_heels",
+			"color":"white",
+			"price":"200",
+			"currency":"USD",
+			"image":"https://s-media-cache-ak0.pinimg.com/736x/0a/5f/3f/0a5f3f7d4ce87f50d28e1367d0996706.jpg"
+		},
+		{
+			"id":"10",
+			"name":"Red high heels",
+			"type":"high_heels",
+			"color":"red",
+			"price":"500",
+			"currency":"USD",
+			"image":"https://s-media-cache-ak0.pinimg.com/736x/93/58/8a/93588aba32051ee59e6014582a062edd.jpg"
+		}
+	]
+}
